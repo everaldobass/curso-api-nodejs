@@ -34,6 +34,17 @@
 - Criando a página de css
 - app.use(express.static(__dirname + '/publico'));
 
+### Aula 09 - Trabalhando com body-parser
+- npm install express --save
+- https://www.npmjs.com/package/body-parser
+- npm install body-parser
+
+### Aula 10 - Utilizando o express-handlebars
+- ipm install express --save
+- Para organizar a extrutura de Layout
+- https://www.npmjs.com/package/express-handlebars
+- npm install express-handlebars
+
 
 
 
